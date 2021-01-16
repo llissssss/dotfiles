@@ -1,1 +1,1 @@
-Fork and customised from https://github.com/mathiasbynens/dotfiles.git 
+Forked and customised from https://github.com/mathiasbynens/dotfiles.git 
